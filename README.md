@@ -11,9 +11,9 @@ A modern, dark-themed portfolio website showcasing the journey of Ujjwal Tiwari 
 - **Aesthetic Enhancements**: Glassmorphism effects on cards and navigation, refined color palette, and premium typography.
 - **Scroll-Reveal Animations**: Sections smoothly fade and slide into view as the user scrolls.
 - **GitHub Coding Activity Section** *(nav: "Coding Activity")*: GitHub stats card, streak widget, interactive 3D skills globe, and animated proficiency bars.
-- **Technical Skills**: Categorized skill badges for Programming, Data Science, Embedded Systems, and Soft Skills.
+- **Technical Skills**: Categorized skill badges for Programming, Data Science, and Embedded Systems.
 - **Professional Experience**: Interactive internship timeline with temporal pills.
-- **Project Showcase**: 13 featured projects linking to their GitHub repositories, featuring custom icons and tech tags.
+- **Project Showcase**: 12 featured projects linking to their GitHub repositories, featuring custom icons and tech tags.
 - **Certifications & Achievements**: 16 clickable certifications linking to their actual completion certificates.
 - **My Resume**: A dedicated resume download section seamlessly integrated with the site's dark theme.
 - **Contact Form**: Integrated with **EmailJS** for direct messaging.
