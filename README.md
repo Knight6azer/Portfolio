@@ -14,7 +14,7 @@ A modern, dark-themed portfolio website showcasing the journey of Ujjwal Tiwari 
 - **Technical Skills**: Categorized skill badges for Programming, Data Science, and Embedded Systems.
 - **Professional Experience**: Interactive internship timeline with temporal pills.
 - **Project Showcase**: 12 featured projects linking to their GitHub repositories, featuring custom icons and tech tags.
-- **Certifications & Achievements**: 13 clickable certifications linking to their actual completion certificates.
+- **Certifications & Achievements**: 16 clickable certifications linking to their actual completion certificates.
 - **My Resume**: A dedicated resume download section seamlessly integrated with the site's dark theme.
 - **Contact Form**: Integrated with **EmailJS** for direct messaging.
 - **Fully Responsive**: Bootstrap 5 grid, `clamp()` typography, mobile-friendly navbar.
