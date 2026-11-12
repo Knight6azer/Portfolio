@@ -1,105 +1,78 @@
 # Ujjwal Tiwari — Personal Portfolio
 
+A refined, dark editorial portfolio showcasing the engineering and data science journey of **Ujjwal Tiwari** — Electronics & Computer Science Engineer and aspiring Data Scientist.
+
+🔗 **Live:** [utpps.vercel.app](https://utpps.vercel.app/)
+
 > *"I help data tell its story, one model at a time."*
 
-A bespoke, dark editorial portfolio showcasing the engineering journey, machine learning models, and embedded systems built by **Ujjwal Tiwari** — an Electronics & Computer Science Engineer and aspiring Data Scientist based in Mumbai.
+---
 
-🔗 **Live Website:** [utpps.vercel.app](https://utpps.vercel.app/)  
-📂 **GitHub Repository:** [Knight6azer/UTPPS](https://github.com/Knight6azer/PPSlite)
+## ✨ Features & Design System
+
+- **Warm Dark Editorial Aesthetic**: Built with a deep charcoal background (`#0f0e0c`), warm card surfaces (`#151412`), soft ivory headings (`#f4ede4`), muted taupe body text (`#a39c92`), delicate amber eyebrows (`#cfa169`), and refreshing mint/sage green accents (`#9bd79e`).
+- **Editorial Typography**: Pairing **Newsreader** (high-contrast editorial serif with graceful italics), **Plus Jakarta Sans** (clean, modern interface font), **Caveat** (handwritten script for real-world notes), and **JetBrains Mono** (monospace indices, dates, and metrics).
+- **Hero & Identity Card**: Features the headline with a sage-green squiggle underline, social links, an interactive ID card with the **UT** monogram, portrait photo, a live pulsing status indicator (`● open to work / intern`), and a tilted Post-it note (`currently: fine-tuning model & drinking chai ☕`).
+- **Infinite Marquee Ticker**: Continuous horizontal marquee strip highlighting core specializations (`data storytelling ✦ machine learning ✦ embedded systems ✦ NLP ✦ predictive modeling ✦ data visualization ✦`).
+- **Editorial About & Skills**: Narrative origin story ("Curious by nature, careful by habit") bridging IoT hardware and predictive machine learning, paired with a structured skills matrix and academic background at SLRTCE.
+- **Curated Projects Showcase**: Highlights the top 6 flagship projects with an interactive toggle to seamlessly expand all 12 projects on demand.
+- **Professional Journey**: Minimalist timeline detailing data analysis, embedded systems, and core Python internships.
+- **Accolades & Leadership**: Numbered highlights celebrating leadership milestones (Media Co-Head of R&D Cell, Edith AI Agent Buildathon lead, Hackathon achievements).
+- **Verified Certifications**: 16 clickable certifications from IBM SkillsBuild, Infosys Springboard, Edunet Foundation, Coursera, and Simplilearn linking directly to verified PDF/image credentials.
+- **GitHub Coding Activity**: Live GitHub streak card, interactive 3D Skills Globe rendered on HTML5 Canvas, language distribution donut chart, and proficiency bars.
+- **Instant Messaging**: Integrated **EmailJS** contact form for direct visitor inquiries alongside direct phone, LinkedIn, and resume download links.
+- **Responsive & Performant**: Lightweight static build, zero runtime bundle overhead, smooth scroll-reveal animations.
 
 ---
 
-## 🎨 Design Philosophy & Theme
+## 🚀 Featured Projects
 
-The portfolio embodies a **warm dark editorial aesthetic**, moving away from cold cyber gradients to a tactile, print-inspired design language:
+1. **Business Intelligence & Insights Analytics System** — Predictive business intelligence platform synthesizing transactional data, customer analytics, and dynamic visual dashboards for data-driven strategic decisions.
+2. **Krishi_Kaar** — AI-driven smart agricultural advisory platform combining machine learning with environmental sensor feeds to recommend optimal crops, monitor soil health, and forecast market trends.
+3. **Emotional Wellbeing Recommender** — Empathetic AI recommendation model evaluating mood indicators and mental wellness patterns to deliver customized emotional support pathways and restorative activities.
+4. **MediCore — Healthcare Management** — Full-featured healthcare management ecosystem and clinic analytics dashboard featuring symptom evaluation, patient scheduling, and real-time medical record insights.
+5. **Schedule Manager** — Production-ready task optimization application offering user authentication, dynamic deadline tracking telemetry, and personalized efficiency analytics.
+6. **Vegetable Vendor App** — Modern retail commerce and ordering application built for localized vendors, offering rapid inventory tracking, automated billing, and reliable JSON persistence.
 
-- **Color Palette:**
-  - **Backgrounds:** Deep warm charcoal (`#0f0e0c`) and subtle tactile surfaces (`#151412`, `#1a1916`)
-  - **Typography:** Warm ivory headlines (`#f4ede4`), warm taupe descriptions (`#a39c92`), and muted ash annotations (`#6e685f`)
-  - **Accents:** Soft sage mint (`#9bd79e`) for focal highlights, warm amber (`#cfa169`) for section eyebrows, and peach terracotta (`#e8b088`) for the rotated sticky note
-  - **Signals:** Emerald green (`#4ade80`) live pulse indicator for current availability
-- **Typography Hierarchy:**
-  - **Headings & Emphases:** *Newsreader* (Google Fonts) — an editorial serif with literary italics
-  - **Interface & Body:** *Plus Jakarta Sans* — a clean, geometric sans-serif
-  - **Handwritten Accents:** *Caveat* — handwritten Post-it note detail in the hero card
-  - **Code & Metadata:** *JetBrains Mono* — monospace index tags, timestamps, and tech badges
-- **Visual Touches:**
-  - Fluid SVG organic wave underline beneath signature hero text
-  - Tilted sticky note with realistic drop shadow and pin accent
-  - Watermarked monogram and live interactive status badge
-  - Infinite marquee ribbon with four-point star (`✦`) separators
-  - 3D Fibonacci sphere Skills Globe with interactive mouse-driven rotation
+*(Plus 6 additional specialized projects in IoT, embedded systems, NLP detection, and autonomous AI agents accessible via the in-page toggle: Smart Home Security System, Acid Rain Data Analysis, Edith AI Agent, Fake News Detector, CRM Voice Agent, and Temperature & Humidity Analysis.)*
 
 ---
 
-## 🚀 Key Featured Projects
+## 🗂 Navigation & Sections
 
-The portfolio showcases **13 distinct projects** spanning machine learning, data engineering, IoT, and full-stack development, with the top 7 projects featured prominently:
-
-| # | Project | Stack | Highlights |
+| # | Section | Anchor | Description |
 |---|---|---|---|
-| **01** | **Business Intelligence & Insights Analytics System** | Python, Pandas, Seaborn, ML | Predictive analytics tool for business decisions integrating CRM trends, customer segmentation, and dynamic dashboards. |
-| **02** | **Krishi_Kaar** | Python, Machine Learning, IoT, AgriTech | AI-driven smart agriculture platform delivering real-time soil intelligence, crop recommendations, and market demand forecasts. |
-| **03** | **Emotional Wellbeing Recommender** | Python, NLP, Scikit-Learn, HealthTech | Mental health recommendation model analyzing sentiment and behavioral signals to suggest personalized wellness routines. |
-| **04** | **MediCore — Healthcare Management** | Flask, MongoDB, AI/ML, Analytics | Intelligent clinical dashboard with patient tracking, real-time metrics, and automated symptom classification. |
-| **05** | **Schedule Manager** | Python, Flask, PostgreSQL, Web | Full-featured productivity suite with authenticated user sessions, deadline tracking, and task velocity analytics. |
-| **06** | **Vegetable Vendor App** | Python, JSON, CLI, Automation | Streamlined digital ordering and billing system tailored for small merchants with persistent transaction logs. |
-| **07** | **Smart Home Security System** *(Origin Build)* | Arduino, ESP32, IoT, Embedded | Physical multi-sensor security mesh transmitting real-time intrusion alerts via Telegram — the foundation of Ujjwal's journey into data. |
-
-### Additional Projects (Accessible via Interactive Toggle)
-- **08. Acid Rain Data Analysis Model** — Environmental time-series analysis evaluating rainfall pH and atmospheric pollution indices.
-- **09. CRM Voice Agent** — Speech-driven conversational assistant converting voice input into structured CRM actions.
-- **10. Edith AI Agent** — Autonomous task-delegation agent developed during the Technivium Buildathon.
-- **11. Fake News Detector** — NLP classifier detecting misinformation with confidence metrics and token importance heatmaps.
-- **12. Quirky_Dweed** — Full-stack social sharing micro-platform with customized content interactions.
-- **13. Temperature & Humidity Analysis** — Continuous telemetry pipeline monitoring environmental shifts via IoT sensors.
+| 1 | Hero | `#home` | Tagline, intro, ID card, stats, and marquee ticker |
+| 2 | About | `#about` | Narrative journey, skills matrix, and education |
+| 3 | Journey | `#experience` | Professional internship timeline |
+| 4 | Work | `#projects` | Featured and complete projects showcase |
+| 5 | Accolades | `#accolades` | Leadership milestones and competition awards |
+| 6 | Learning | `#certifications` | 16 verified digital certifications |
+| 7 | Code | `#coding-activity` | GitHub profile, 3D skills globe, stats, and languages |
+| 8 | Hello | `#contact` | Direct EmailJS form, phone, socials, and resume |
 
 ---
 
-## 🗂 Portfolio Structure & Sections
+## 🛠 Technology Stack
 
-| # | Section | Nav Anchor | Description |
-|---|---|---|---|
-| 1 | **Hero** | `#home` | Editorial headline, quick intro, ID card with sticky note & status, stats counter, and infinite marquee. |
-| 2 | **About Me** | `#about` | Narrative origin story, structured 4-row Skills Matrix, and university education card. |
-| 3 | **Journey** | `#experience` | Timeline covering internships at Edunet Foundation, Circuit Wizard, and Pyverse. |
-| 4 | **Work** | `#projects` | 2-column card grid with direct GitHub links, tech pills, and expandable project drawer. |
-| 5 | **Accolades** | `#accolades` | Numbered leadership achievements including R&D Cell Media Co-Head and Hackathon leadership. |
-| 6 | **Learning** | `#certifications` | Directory of 16 verified digital certificates (IBM, Infosys, Coursera, Edunet) with viewable files. |
-| 7 | **Code & Craft** | `#coding-activity` | GitHub telemetry, interactive 3D Skills Globe, streak tracker, language donut, and skill bars. |
-| 8 | **Contact** | `#contact` | Direct communication hub with phone pill, socials, resume download, and EmailJS message form. |
+- **Frontend**: HTML5, CSS3 (Custom Dark Editorial Design System), Vanilla JavaScript
+- **Framework & Icons**: Bootstrap 5.3.2, Font Awesome 6.4.0
+- **Typography**: Google Fonts — Newsreader, Plus Jakarta Sans, Caveat, JetBrains Mono
+- **Messaging**: EmailJS Browser SDK v3
+- **Visual Telemetry**: HTML5 Canvas (3D Skills Globe), GitHub Readme Streak Stats
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Local Setup
 
-- **Markup & Layout:** HTML5, CSS3, Bootstrap 5.3.2 Grid
-- **Typography:** Google Fonts (`Newsreader`, `Plus Jakarta Sans`, `Caveat`, `JetBrains Mono`)
-- **Icons:** Font Awesome 6.4.0
-- **Canvas Graphics:** HTML5 Canvas (3D Fibonacci Sphere Skills Globe)
-- **Forms & Email:** EmailJS Browser SDK v3
-- **Analytics & Telemetry:** GitHub Readme Stats & Streak Widget
-
----
-
-## 💻 Local Setup
-
-1. **Clone the repository:**
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Knight6azer/PPSlite.git
-   cd PPSlite
+   git clone https://github.com/Knight6azer/UTPPS.git
    ```
-
-2. **Run locally:**
-   Open `index.html` directly in any modern browser, or spin up a local preview:
-   ```bash
-   python -m http.server 8000
-   ```
-   Navigate to `http://localhost:8000`.
+2. **Open `index.html`** in any modern web browser — no compile or build steps required.
 
 ---
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](LICENSE).
-Feel free to explore the code, adapt the design, and build upon it.
+MIT License — free and open source.
